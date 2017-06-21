@@ -7,7 +7,7 @@ import edu.princeton.cs.algs4.Graph;
  */
 public class Test {
     public static void main(String[] args) {
-        String s = new String("132");
+        String s = "132";
         s = "987";
         System.out.println(s);
 
